@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Zachary Guerrero
 ##  About Me
-I'm A cyber security student attending utsa, I like to play videogames in my free time and would consider myself very social.
+I'm A cyber security student attending utsa, I like to play videogames in my free time and would consider myself very social and outgoing.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
